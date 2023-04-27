@@ -1,0 +1,11 @@
+
+.idea/
+
+Cycling_Near_Miss.egg-info/
+
+*.pyc
+
+
+.ipynb_checkpoints/
+
+archive/
